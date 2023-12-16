@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Madib036
+@Madib036
 #codespaces- 👀 I’m interested in ...
 #AWS and Debugging- 🌱 I’m currently learning ...
 #how to get a better understanding on building funding contacts- 💞️ I’m looking to collaborate on ...
@@ -8,3 +8,4 @@
 Madib036/Madib036 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+gitpod.yml
